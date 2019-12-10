@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c9495c1b4e2f03e912f67d2cb5627ff",
+    "revision": "266d25c7ced6742d1be481a0a4f16300",
     "url": "/weather-finder/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather-finder/static/css/2.fe6c84aa.chunk.css"
   },
   {
-    "revision": "44f7e2aeafab2c70cd7b",
+    "revision": "cfd969a386e418f8b252",
     "url": "/weather-finder/static/css/main.ca8df08a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather-finder/static/js/2.7032a2d0.chunk.js.LICENSE"
   },
   {
-    "revision": "44f7e2aeafab2c70cd7b",
-    "url": "/weather-finder/static/js/main.bb3405dc.chunk.js"
+    "revision": "cfd969a386e418f8b252",
+    "url": "/weather-finder/static/js/main.0acc3f06.chunk.js"
   },
   {
     "revision": "f7a54d6207874e5136f0",
